@@ -1,1 +1,1 @@
-# Javascript algorithms interview questions
+# Javascript algorithms interview questions(Problem Solving)
