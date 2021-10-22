@@ -12,4 +12,5 @@ function isPrime(number) {
   return true;
 }
 
-console.log(isPrime(8));
+console.log(isPrime(8)); // Output is false
+console.log(isPrime(3)); //Output is true
