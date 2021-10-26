@@ -72,3 +72,13 @@ function someFunction5(n) {
     console.log(n);
   }
 }
+
+/*O(∞)
+Infinite loop. This function will not end.
+ */
+
+function someFunction6(n) {
+  while (true) {
+    console.log(n);
+  }
+}
