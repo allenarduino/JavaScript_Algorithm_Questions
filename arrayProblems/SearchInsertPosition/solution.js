@@ -25,3 +25,4 @@ let n = arr.length;
 let K = 2;
 
 console.log(findIndex(arr, n, K))
+//Output: 1
