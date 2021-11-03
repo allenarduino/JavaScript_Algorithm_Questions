@@ -8,7 +8,5 @@
   },
   "author": "Allen Jones",
   "license": "ISC",
-  "dependencies": {
-    "nodemon": "^2.0.12"
-  }
+  "dependencies": {}
 }
