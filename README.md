@@ -1,6 +1,6 @@
 # Javascript data structures and algorithms Prep
 
-# Two Sum Problem
+# (1)Two Sum Problem
 
 Given an array of integers, return indices of the two numbers
 such that they add up to a specific target.
@@ -76,7 +76,7 @@ const twoSum = (array, goal) => {
 };
 ```
 
-# Search Insert position of K in a sorted array
+# (2) Search Insert position of K in a sorted array
 
 Given a sorted array arr consisting of N distinct integers
 and an integer K,the task is to find the index of K, if it's present in the array
