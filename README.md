@@ -17,14 +17,11 @@ return [0, 1].
 
 ## Solution 1
 
-<p>Let's assume the input is:</p>
+Let's assume the input is:
 
-<p>
 1. array=[1,3,10,11,14]
-</p>
-<p>
+
 2. goal=13
-</p>
 
 ```js
 //O(n^2) time complexity
@@ -45,15 +42,14 @@ const twoSum = (array, goal) => {
 
 This will return an array of [1,2].
 
-<p>It works but if you check it out you'll notice it's running
+It works but if you check it out you'll notice it's running
 a loop inside of a loop to figure out which two numbers add up to the goal.
 That gives us a time complexity of O(n^2) which is pretty slow
-</p>
 
 ## A more optimized solution
 
-<p>1. array=[1,3,10,11,14]</p>
-<p>2. goal=13</p>
+1. array=[1,3,10,11,14]</p>
+2. goal=13</p>
 
 ```js
 //0(n) time complexity
@@ -134,5 +130,6 @@ console.log(findIndex(arr, n, K));
 //Output: 1
 ```
 
-<p><b><i>Time Complexity:</i></b>O(N)</p>
-<p><b><i>Auxiliary Space:</i></b>O(1)</p>
+#### Time Complexity:O(N)
+
+#### Auxiliary Space:O(1)
